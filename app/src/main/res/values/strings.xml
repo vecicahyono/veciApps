@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Veci Apps Kalkulator</string>
+    <string name="judul">Aplikasi Kalkulator Sederhana</string>
+    <string name="et_angka1">Masukkan Angka Pertama</string>
+    <string name="et_angka2">Masukkan Angka Kedua</string>
+    <string name="btn_clear">BERSIHKAN</string>
+    <string name="tv_hasil">Hasil</string>
+    <string name="tv_create">Created By Veci Cahyono</string>
+    <string name="tv_buktihasil">0.0</string>
+</resources>
